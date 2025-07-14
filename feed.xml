@@ -3,7 +3,7 @@
     <title>3LLY Journey</title>
     <link href="https://3lly.info/feed.xml" rel="self" />
     <link href="https://3lly.info" />
-    <updated>2025-07-14T16:28:00-07:00</updated>
+    <updated>2025-07-14T16:34:55-07:00</updated>
     <author>
         <name>3lly</name>
     </author>
@@ -16,18 +16,18 @@
         </author>
         <link href="https://3lly.info/meowdy-lets-go-exploring/"/>
         <id>https://3lly.info/meowdy-lets-go-exploring/</id>
-        <media:content url="https://3lly.info/media/posts/1/Car.jpg" medium="image" />
+        <media:content url="https://3lly.info/media/posts/1/image.jpg" medium="image" />
 
         <updated>2025-07-14T16:28:00-07:00</updated>
             <summary>
                 <![CDATA[
-                        <img src="https://3lly.info/media/posts/1/Car.jpg" alt="Robert Feline!?" />
+                        <img src="https://3lly.info/media/posts/1/image.jpg" alt="Robert Feline!?" />
                     Nutritional Content of this Blog. 25% of my photography / photography challenges. 25% of my scripting / app development updates. 30% of pure mundane things spurred by my curiosity. 20% of personal challenges I'm trying to tackle. Tinker Librarian Shiny Linguist [[She/It like a boat]]&hellip;
                 ]]>
             </summary>
         <content type="html">
             <![CDATA[
-                    <p><img src="https://3lly.info/media/posts/1/Car.jpg" class="type:primaryImage" alt="Robert Feline!?" /></p>
+                    <p><img src="https://3lly.info/media/posts/1/image.jpg" class="type:primaryImage" alt="Robert Feline!?" /></p>
                 
     <h2 id="nutritional-content-of-this-blog">
       Nutritional Content of this Blog.
