@@ -3,60 +3,10 @@
     <title>3LLY Journey</title>
     <link href="https://3lly.info/feed.xml" rel="self" />
     <link href="https://3lly.info" />
-    <updated>2025-07-14T16:34:55-07:00</updated>
+    <updated>1969-12-31T16:00:00-08:00</updated>
     <author>
         <name>3lly</name>
     </author>
     <id>https://3lly.info</id>
 
-    <entry>
-        <title>Meowdy! Let&#x27;s Go Exploring!</title>
-        <author>
-            <name>3lly</name>
-        </author>
-        <link href="https://3lly.info/meowdy-lets-go-exploring/"/>
-        <id>https://3lly.info/meowdy-lets-go-exploring/</id>
-        <media:content url="https://3lly.info/media/posts/1/image.jpg" medium="image" />
-
-        <updated>2025-07-14T16:28:00-07:00</updated>
-            <summary>
-                <![CDATA[
-                        <img src="https://3lly.info/media/posts/1/image.jpg" alt="Robert Feline!?" />
-                    Nutritional Content of this Blog. 25% of my photography / photography challenges. 25% of my scripting / app development updates. 30% of pure mundane things spurred by my curiosity. 20% of personal challenges I'm trying to tackle. Tinker Librarian Shiny Linguist [[She/It like a boat]]&hellip;
-                ]]>
-            </summary>
-        <content type="html">
-            <![CDATA[
-                    <p><img src="https://3lly.info/media/posts/1/image.jpg" class="type:primaryImage" alt="Robert Feline!?" /></p>
-                
-    <h2 id="nutritional-content-of-this-blog">
-      Nutritional Content of this Blog.
-    </h2>
-
-  <p>
-    25% of my photography / photography challenges.<br>25% of my scripting / app development updates.<br>30% of pure mundane things spurred by my curiosity.<br>20% of personal challenges I'm trying to tackle.<br>
-  </p>
-
-    <h2 id="about-me-im-3lly-pronounced-elly">
-      About Me: I'm 3LLY (Pronounced Elly)!
-    </h2>
-
-  <p>
-    Tinker Librarian Shiny Linguist<br>[[She/It like a boat]] // 29Y Uptime as of June 1 2025<br>"Ambiguity remains until observation."
-  </p>
-
-    <h2 id="why-i-made-this-blog">
-      Why I made this Blog.
-    </h2>
-
-  <p>
-    If you've found yourself here with no explanation, I'm Elly. With the early 2020s, the average internet user experienced several upheavals. Twitter got sold to Elon and became unusable, BlueSky is still in its infancy, and Mastodon didn't quite reach critical mass. So I made a blog just like in my childhood!
-  </p>
-
-  <p>
-    There's technically a RSS feed. I'm also committing to quarterly / annual updates.&nbsp;<br>You can always ping me via 3lly.info on BSKY messaging or try emailing Support(at)"this website's domain name".&nbsp;
-  </p>
-            ]]>
-        </content>
-    </entry>
 </feed>
